@@ -1,0 +1,67 @@
+.container {
+  background-color: #e6f0fa;
+  padding: 25px;
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+.title {
+  color: #0078d4;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.textarea {
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.button {
+  background-color: #0078d4;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #005a9e;
+}
+
+.message {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.submitTicketContainer {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #0078d4, #00bcf2);
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.submitButton {
+  margin-top: 20px;
+  width: 100%;
+}

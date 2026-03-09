@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "submit-ticket-client-side-solution",
+    "id": "d11d6a29-a3e0-464d-9257-fddbf44a755a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SubmitTicket description"
+      },
+      "longDescription": {
+        "default": "SubmitTicket description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "submit-ticket Feature",
+        "description": "The feature that activates elements of the submit-ticket solution.",
+        "id": "0bf283f2-784c-498d-b123-e7b79f728dd9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/submit-ticket.sppkg"
+  }
+}

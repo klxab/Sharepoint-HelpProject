@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "submit-ticket-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/submitTicket/SubmitTicketWebPart.js",
+          "manifest": "./src/webparts/submitTicket/SubmitTicketWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SubmitTicketWebPartStrings": "lib/webparts/submitTicket/loc/{locale}.js"
+  }
+}

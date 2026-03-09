@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.0",
+    "sdksVersions": {},
+    "version": "1.22.1",
+    "libraryName": "submit-ticket",
+    "libraryId": "d11d6a29-a3e0-464d-9257-fddbf44a755a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SubmitTicket",
+    "solutionShortDescription": "SubmitTicket description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

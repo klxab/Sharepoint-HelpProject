@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "track-ticket-client-side-solution",
+    "id": "73c25259-9e09-43ea-91d4-a5bbabcdfeca",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "TrackTicket description"
+      },
+      "longDescription": {
+        "default": "TrackTicket description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "track-ticket Feature",
+        "description": "The feature that activates elements of the track-ticket solution.",
+        "id": "1d1a2133-6774-47cc-a95a-6fb258d3e071",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/track-ticket.sppkg"
+  }
+}

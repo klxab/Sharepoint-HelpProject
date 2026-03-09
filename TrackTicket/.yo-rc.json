@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.0",
+    "sdksVersions": {},
+    "version": "1.22.1",
+    "libraryName": "track-ticket",
+    "libraryId": "73c25259-9e09-43ea-91d4-a5bbabcdfeca",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "TrackTicket",
+    "solutionShortDescription": "TrackTicket description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
