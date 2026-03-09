@@ -24,5 +24,4 @@ It allows employees to submit tickets, track their status, and communicate with 
 
 ---
 
-## Link
-https://m365mcp19195497.sharepoint.com/sites/EmployeeLearningPortal/SitePages/ITHelpdeskHome.aspx
+
